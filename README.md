@@ -2,6 +2,7 @@
 Repository for Microvision Emulator (Build 14) produced by Paul Robson and freely released.
 
 clone the repo and cd into the director, type make and profit.
+compile directly on the device, or in a cross compile environment with the correct toolchains
 
 
 RetroArena/ARES/RetroPie How To: *** How to build and install Microvision
