@@ -24,7 +24,7 @@
 #define WIDTH   (800)
 #define HEIGHT  (600)
 
-static BOOL isSoundOn = FALSE;                                                          // Sound status.
+static BOOL isSoundOn = TRUE;                                                          // Sound status.
 int  pitch = 440;                                                                       // Current sound pitch
 static int cyclePos;
 static SDL_Window *window;                                                              // Window
